@@ -6,3 +6,5 @@ Feel free to create issues for topics where no comments exist. The topic name _m
 ```
 blog/2021-05-05_proxmox_influxdb/
 ```
+
+.. will add comments to [https://du.nkel.dev/blog/2021-05-05_proxmox_influxdb/](https://du.nkel.dev/blog/2021-05-05_proxmox_influxdb/).
